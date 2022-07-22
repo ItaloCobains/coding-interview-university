@@ -1,11 +1,11 @@
 # Universidade de Entrevista de Programação
 
-> Originalmente eu criei isso como uma pequena lista to-do (a fazer) de tópicos de estudo para se tornar um engenheiro de software, 
-> mas isso cresceu para este imenso acervo que você consulta hoje. Após passar por todo esse plano de estudo, [Eu fui contratado 
-> como Engenheiro de Desenvolvimento de Software na Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)! 
+> Originalmente eu criei isso como uma pequena lista to-do (a fazer) de tópicos de estudo para se tornar um engenheiro de software,
+> mas isso cresceu para este imenso acervo que você consulta hoje. Após passar por todo esse plano de estudo, [Eu fui contratado
+> como Engenheiro de Desenvolvimento de Software na Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
 > Você provavelmente não vai precisar estudar tanto quanto eu. De qualquer maneira, tudo que você precisa está aqui.
 >
-> Os itens listados aqui irão preparar você muito bem para uma entrevista em praticamente qualquer empresa de software, 
+> Os itens listados aqui irão preparar você muito bem para uma entrevista em praticamente qualquer empresa de software,
 > incluindo as gigantes como: Amazon, Facebook, Google ou Microsoft.
 >
 > *Boa sorte para todos vocês!*
@@ -215,7 +215,7 @@ Se você quer ser um engenheiro de confiabilidade ou engenheiro de sistemas, est
 Quando eu comecei esse projeto, eu não sabia diferenciar memória dinâmica de memória estática, não sabia notação Big-O, árvores, ou como percorrer um grafo. Se eu tivesse que escrever um algoritmo de ordenação, eu posso te dizer que ele não seria muito bom.
 Todas as estruturas de dados que eu já usei eram construídas dentro da linguagem, e eu não sabia como elas funcionavam por debaixo dos panos. Eu nunca tive que gerenciar memória a não ser que um processo que eu estava rodando desse um erro de "memória insuficiente", nesse caso eu teria que dar um jeito. Eu já usei alguns vetores multidimensionais na minha vida e milhares de vetores associativos, mas eu nunca criei estruturas de dados do zero.
 
-É um longo plano. Você vai levar meses. Se você já é familiarizado com muitas dessas coisas, você vai precisar de muito menos tempo. 
+É um longo plano. Você vai levar meses. Se você já é familiarizado com muitas dessas coisas, você vai precisar de muito menos tempo.
 
 ## Como usar
 
@@ -262,7 +262,7 @@ Alguns vídeos estão disponíveis somente ao ingressar em um curso no Coursera,
 
 ## Processo de Entrevista e Preparação Geral para a Entrevista
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [ x ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1) (Usando O Quadro Branco)
 - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/) (Usando o Quadro Branco Efetivamente durante Entrevistas de Programação)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs) (Desmistificando Recrutamento Técnico)
@@ -275,7 +275,7 @@ Alguns vídeos estão disponíveis somente ao ingressar em um curso no Coursera,
 - [ ] Cursos de Preparação:
     - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed) (Entrevista de Engenheiro de Software Unleashed - curso pago):
         - Aprenda com um ex-entrevistador da Google como se preparar para entrevistas de engenheiro de software.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/): (Python para Estrutura de Dados, Algoritmos e Entrevistas! - curso pago) 
+    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/): (Python para Estrutura de Dados, Algoritmos e Entrevistas! - curso pago)
         - Um curso de preparação para entrevistas focado em Python, que cobre estrutura de dados, algoritmos, entrevistas simuladas e muito mais.
 
 ## Escolha Uma Linguagem para a Entrevista
@@ -337,7 +337,7 @@ Se estiver com pouco tempo:
         - Chapter 7 - Composite Data Types and Memory Objects (Tipos de Dados Compostos e Objetos de Memória)
         - Chapter 9 - CPU Architecture (Arquitetura de CPU)
         - Chapter 10 - Instruction Set Architecture (Arquitetura de Conjunto de Instruções)
-        - Chapter 11 - Memory Architecture and Organization (Arquitetura e Organização de Memória) 
+        - Chapter 11 - Memory Architecture and Organization (Arquitetura e Organização de Memória)
 
 Se você tem mais tempo (eu quero esse livro):
 
@@ -348,7 +348,7 @@ Se você tem mais tempo (eu quero esse livro):
 
 **Você precisa escolher uma linguagem para a entrevista (veja acima).** Aqui estão minhas recomendações por linguagem. Eu não tenho recursos para todas as linguagens. Contribuições são bem-vindas.
 
-Se você ler um desses, você deverá ter todo conhecimento de estrutura de dados e algoritmos que precisará para começar a resolver problemas de programação. 
+Se você ler um desses, você deverá ter todo conhecimento de estrutura de dados e algoritmos que precisará para começar a resolver problemas de programação.
 **Você pode pular todas as aulas em vídeo nesse projeto**, a não ser que você queira uma revisão.
 
 [Recursos adicionais específicos a cada linguagem aqui.](../programming-language-resources.md)
@@ -360,7 +360,7 @@ Eu não li esses dois, mas eles são muito bem avaliados e escritos por Sedgewic
 - [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/) (Algoritmos em C++, Partes 1-4: Fundamentos, Estrutura de Dados, Ordenação, Busca).
 - [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/) (Algoritmos em C++ Parte 5: Algoritmos de Grafo)
 
-Se você tiver uma recomendação melhor para C++, por favor me informe. Busco por recursos completos. 
+Se você tiver uma recomendação melhor para C++, por favor me informe. Busco por recursos completos.
 
 ### Java
 
@@ -418,11 +418,11 @@ OU:
     - também conhecido como CLR, às vezes CLRS, porque Stein estava atrasado para o negócio
 
 - [ ] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880) (Pérolas de Programação)
-    - Os primeiros capítulos apresentam soluções inteligentes para problemas de programação (alguns bem velhos usando suporte magnético)  
+    - Os primeiros capítulos apresentam soluções inteligentes para problemas de programação (alguns bem velhos usando suporte magnético)
     mas isso é só uma introdução. Esse é um guia sobre design e arquitetura de programa, parecido com Code Complete, mas muito mais curto.
 
 - ~~"Algorithms and Programming: Problems and Solutions" by Shen ("Algoritmos e Programação: Problemas e Soluções" por Shen)~~
-    - Um bom livro, mas depois de trabalhar nos problemas em várias páginas eu fiquei frustrado com o Pascal, loops do...while, arrays de 1 índice (index), e resultados de satisfação pós-condição pouco claros.  
+    - Um bom livro, mas depois de trabalhar nos problemas em várias páginas eu fiquei frustrado com o Pascal, loops do...while, arrays de 1 índice (index), e resultados de satisfação pós-condição pouco claros.
     - Prefiro gastar tempo em problemas de programação de outro livro ou problemas de programação online.
 
 
@@ -442,7 +442,7 @@ Por favor, leia para que você não cometa os meus erros:
 
 ### 2. Use Flashcards
 
-Para solucionar o problema, eu fiz um pequeno site de flashcards onde eu poderia adicionar dois tipos de flashcards: genérico e código.  
+Para solucionar o problema, eu fiz um pequeno site de flashcards onde eu poderia adicionar dois tipos de flashcards: genérico e código.
 Cada cartão tem formatação diferente.
 
 Eu fiz um website focado em mobile para que eu pudesse rever no meu celular, tablet, onde quer que eu esteja.
@@ -450,7 +450,7 @@ Eu fiz um website focado em mobile para que eu pudesse rever no meu celular, tab
 Faça o seu próprio, grátis:
 
 - [Repositório de flashcards](https://github.com/jwasham/computer-science-flash-cards)
-- [Minha base de dados de flashcards (antigo - 1200 cartões)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham.db): 
+- [Minha base de dados de flashcards (antigo - 1200 cartões)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham.db):
 - [Minha base de dados de flashcards (novo - 1800 cartões)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham-extreme.db):
 
 Tenha em mente que eu exagerei e tenho cartões abrangendo desde linguagem assembly e trivialidades de Python até aprendizado de máquina e estatísticas. É demais para o que é requerido. 
@@ -472,7 +472,7 @@ Faça uma pausa durante os problemas de programação por meia hora e passe por 
 
 Há um monte de distrações que podem ocupar um tempo valioso. Foco e concentração são difíceis.
 
-## O que você não verá 
+## O que você não verá
 
 Essas são tecnologias predominantes, mas não são partes desse plano de estudo:
 
@@ -515,9 +515,9 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 - [ ] **Aprenda C**
     - C está em todo lugar. Você vai ver exemplos em livros, aulas, vídeos, em todo lugar enquanto você estiver estudando.
     - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628) (Linguagem de Programação C, Vol 2)
-        - Esse é um livro curto, mas vai te ajudar a ter um ótimo domínio da linguagem C e se você praticar um pouco 
+        - Esse é um livro curto, mas vai te ajudar a ter um ótimo domínio da linguagem C e se você praticar um pouco
             você irá se tornar proficiente rapidamente. Entender C te ajuda a entender como os programas e a memória funcionam.
-        - [answers to questions](https://github.com/lekkas/c-algorithms) (respostas para as questões) 
+        - [answers to questions](https://github.com/lekkas/c-algorithms) (respostas para as questões)
 
 - [ ] **Como computadores processam um programa:**
     - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) (Como uma CPU executa um programa - vídeo)
@@ -544,7 +544,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
 - [ ] [Cheat sheet](http://bigocheatsheet.com/) (Folha de Consultas)
 
 
-    Se alguma das aulas forem muito "matemáticas", você pode pular para o final e 
+    Se alguma das aulas forem muito "matemáticas", você pode pular para o final e
     ver o vídeo de matemática discreta para ganhar um conhecimento base.
 
 ## Estrutura de Dados
@@ -629,12 +629,12 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
         - empty()
     - [ ] Implementar usando arrays de tamanho-fixo:
         - enqueue(valor) - adiciona um item no final do armazenamento disponível
-        - dequeue() - retorna um valor e remove um elemento menos recentemente adicionado 
+        - dequeue() - retorna um valor e remove um elemento menos recentemente adicionado
         - empty()
         - full()
     - [ ] Custo:
         - uma implementação ruim usando lista ligada na qual você coloca na fila (enqueue) no head (cabeça/início da lista) e tira da fila (dequeue) no tail (cauda/final da lista) seria O(n)
-            porque você precisaria do penúltimo elemento, causando uma transversal completa a cada dequeue 
+            porque você precisaria do penúltimo elemento, causando uma transversal completa a cada dequeue
         - enqueue: O(1) (amortizado, lista ligada e array [sondagem])
         - dequeue: O(1) (lista ligada e array)
         - empty (vazio): O(1) (lista ligada e array)
@@ -673,7 +673,7 @@ Escreva código em um quadro branco ou papel, não em um computador. Teste com u
         - busca binária (em um array ordenado de números inteiros)
         - busca binária usando recursividade
 
-- ### Lógica binária 
+- ### Lógica binária
     - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/bits-cheat-sheet.pdf) (Folha de consultas sobre Bits) - você deve conhecer várias das potências de 2 de (2^1 até 2^16 e 2^32)
     - [ ] Consiga um bom entendimento sobre manipulação de bits com: &, |, ^, ~, >>, <<
         - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture)) (palavras)
@@ -1452,7 +1452,7 @@ O aprendizado nunca para.
     *****************************************************************************************************
 
     Tudo abaixo deste ponto é opcional.
-    Ao estudar o que vem a seguir, você vai ter maior exposição a mais conceitos de Ciência da Computação, e está mais bem preparado para 
+    Ao estudar o que vem a seguir, você vai ter maior exposição a mais conceitos de Ciência da Computação, e está mais bem preparado para
     qualquer trabalho de engenharia de software. Você será um engenheiro de software muito mais completo.
 
     *****************************************************************************************************
@@ -1781,7 +1781,7 @@ Esses tópicos provavelmente não aparecerão em uma entrevista, mas eu adicione
     - [ ] [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html) (Tutoriais de Tensorflow)
     - [ ] [Practical Guide to implementing Neural Networks in Python (using Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/) (Guia Prática para implementar Redeus Neurais em Python - usando Theano)
     - Cursos:
-        - [Ótimo curso iniciante: Aprendizado de Máquina](https://www.coursera.org/learn/machine-learning) 
+        - [Ótimo curso iniciante: Aprendizado de Máquina](https://www.coursera.org/learn/machine-learning)
               - [somente vídeos](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
               - veja os vídeos 12-18 para uma revisão de algebra linear (14 e 15 são duplicados)
         - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) (Redes Neurais para Aprendizado de Máquina)
